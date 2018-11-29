@@ -1,0 +1,5 @@
+C:\Users\walney\Documents\Visual Studio 2012\Projects\Desafio2\Desafio2\bin\Desafio2.dll
+C:\Users\walney\Documents\Visual Studio 2012\Projects\Desafio2\Desafio2\bin\Desafio2.pdb
+C:\Users\walney\Documents\Visual Studio 2012\Projects\Desafio2\Desafio2\obj\Debug\Desafio2.csprojResolveAssemblyReference.cache
+C:\Users\walney\Documents\Visual Studio 2012\Projects\Desafio2\Desafio2\obj\Debug\Desafio2.dll
+C:\Users\walney\Documents\Visual Studio 2012\Projects\Desafio2\Desafio2\obj\Debug\Desafio2.pdb
